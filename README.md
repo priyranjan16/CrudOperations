@@ -4,7 +4,8 @@
 
 Short summary on functionality and used technologies.
 
-[picture of the solution in action, if possible]
+![image](https://github.com/priyranjan16/CrudOperations/assets/31643698/fb9e638f-ee94-4e87-bb37-b9d4d303f5b1)
+
 
 ## Used SharePoint Framework Version
 
